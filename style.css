@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.digital-watch{
+    margin-top: 3em;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.box{
+    width: 170px;
+    height: 100px;
+    border: 1px solid;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
